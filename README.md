@@ -8,6 +8,8 @@ Dependencies:
 1. OpenCV should be installed
 2. Python 3 should be installed
 
+Result:
+
 ![Image alt](https://github.com/juliaushda/Face_detection/blob/master/faces_detected.jpg)
 
 
